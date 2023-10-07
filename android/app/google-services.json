@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "414379304905",
+    "project_id": "what-the-water",
+    "storage_bucket": "what-the-water.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:414379304905:android:92ce91b5acf608e6386a18",
+        "android_client_info": {
+          "package_name": "com.example.what_the_water"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAIsz1R2z0jKzC_lk6KFLZueNAwncDtNbk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
